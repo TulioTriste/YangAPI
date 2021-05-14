@@ -6,7 +6,8 @@ _¿How to create my private KnockbackProfiler from my private Spigot?_
 
 
 - In plugin.yml put it to load after Yang, for example: 
-![img_1.png](img_1.png)
+
+    ![img_1.png](img_1.png)
   
 
 - Create a room implementing KnockbackProfile

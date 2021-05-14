@@ -43,6 +43,7 @@ _¿How to create my private KnockbackProfiler from my private Spigot?_
 
 
 **How to usage the KnockbackProfiler?** 
+
 _I will leave you an example so you can understand how to use it_
 
 ![img_2.png](img_2.png)

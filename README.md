@@ -5,9 +5,9 @@ _¿How to create my private KnockbackProfiler from my private Spigot?_
 - You have to create your own project in Intellij, Eclipse, etc.
 
 
-- In plugin.yml put it to load after Yang, for example: 
+- in plugin.yml put softdepend: Yang so that it loads yang first before the api, for example: 
 
-    ![img_1.png](img_1.png)
+    ![image](https://user-images.githubusercontent.com/33809410/118216061-c9b63400-b440-11eb-82dc-63658caef2df.png)
   
 
 - Create a room implementing KnockbackProfile

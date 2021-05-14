@@ -27,21 +27,21 @@ _¿How to create my private KnockbackProfiler from my private Spigot?_
   
 
 - In the main class you have created, in the onEnable section register your KnockbackProfiler class 
-    ```Java
-    public class Main extends JavaPlugin {
-
-    @Override
-    public void onEnable() {
-        YangAPI.setKnockbackProfile(new YourSpigotKnockback());
+  ```Java
+      public class Main extends JavaPlugin {
+  
+      @Override
+      public void onEnable() {
+          YangAPI.setKnockbackProfile(new YourSpigotKnockback());
+      }
+  
+      @Override
+      public void onDisable() { }
     }
-
-    @Override
-    public void onDisable() { }
-  }
-
-
-
-
+  ```
+               
+                       
+ -
 **How to usage the KnockbackProfiler?** 
 
 _I will leave you an example so you can understand how to use it_

@@ -47,3 +47,14 @@ _¿How to create my private KnockbackProfiler from my private Spigot?_
 _I will leave you an example so you can understand how to use it_
 
 ![img_2.png](img_2.png)
+
+
+**How to use the MatchCode?**
+
+_the only thing you have to know is the basics, know how to use a listener_
+
+![img_3.png](img_3.png)
+
+_after that you can use the methods that are available which are the following_
+
+![img_4.png](img_4.png)
